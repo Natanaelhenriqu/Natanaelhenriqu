@@ -46,7 +46,11 @@
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Natanaelhenriqu&show_icons=true&theme=dark)
+<a href="https://github.com/Natanaelhenriqu">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Natanaelhenriqu&show_icons=true&theme=dark" alt="Estatísticas do Natanaelhenriqu" />
+</a>
+
+
 
 ## Linguagens mais usadas GitHub
 
