@@ -42,15 +42,15 @@
   </a>
 </div>
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 
 
 ## Estatísticas do GitHub
 
-<a href="https://github.com/Natanaelhenriqu">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Natanaelhenriqu&show_icons=true&theme=dark" alt="Estatísticas do Natanaelhenriqu" />
-</a>
-
-
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Natanaelhenriqu&icons=true&theme=gotham)
 
 ## Linguagens mais usadas GitHub
 
